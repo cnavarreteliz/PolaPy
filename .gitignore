@@ -1,0 +1,7 @@
+build/
+polapy.egg-info/
+polapy/__pycache__
+dist/
+
+.doc.sh
+publish.sh
