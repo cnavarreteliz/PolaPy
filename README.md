@@ -1,3 +1,9 @@
 # PolaPy
 
-An open-source library for the study of polarization.
+PolaPy (Polarization for Python) is a collection of algorithmic implementations of polarization metrics in Python.
+
+## Installation
+
+```
+pip install polapy
+```
