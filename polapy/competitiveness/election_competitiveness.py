@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 
-def between_ep(
+def election_competitiveness(
     data,
     unit: str = "unit",
     candidate: str = "candidate",

@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="polapy",
-    version="0.0.1",
+    version="0.0.2",
     author="cnavarreteliz",
     author_email="cnavarreteliz@gmail.com",
     description="PolaPy (Polarization for Python) is a collection of algorithmic implementations of polarization metrics in Python.",

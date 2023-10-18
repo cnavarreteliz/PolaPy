@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 
-def within_ep(
+def election_polarization(
     data: pd.DataFrame,
     unit: str = "unit",
     candidate: str = "candidate",
@@ -23,9 +23,9 @@ def within_ep(
     Returns
     -------
     float
-        Within-EP
+        Within-EP coefficient
     pd.DataFrame
-        _description_
+        A DataFrame with the antagonism of each candidate
     """
     data = data.copy()
 
